@@ -1,7 +1,7 @@
 
-# Install django project
+#Instalar Django en vagrant desde cero
 
-Guia de instalacion desde cero Django
+Guia de instalacion desde cero
 
 >crear carpeta donde se alojara el proyecto.
 >
@@ -60,5 +60,7 @@ vagrant ssh
 ## Crear proyecto Django
 
 >django-admin startproject mysite
+>
 >Cambie el directorio externo mysite y ejecute lo siguiente
+>
 > python manage.py runserver 'ip:port'
