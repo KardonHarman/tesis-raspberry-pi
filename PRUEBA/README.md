@@ -1,8 +1,6 @@
-
 # Instalar Django en vagrant desde cero
 
 Guia de instalacion desde cero
-
 >crear carpeta donde se alojara el proyecto.
 >
 >mkdir 'project_name'
