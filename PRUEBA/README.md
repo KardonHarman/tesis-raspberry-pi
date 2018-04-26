@@ -1,5 +1,5 @@
 
-#Instalar Django en vagrant desde cero
+# Instalar Django en vagrant desde cero
 
 Guia de instalacion desde cero
 
